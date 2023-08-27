@@ -1,0 +1,14 @@
+// ให้สร้างฟังก์ชันชื่อ sayHelloWorld  
+// เมื่อเรียกใช้ฟังก์ชันให้ alert คำว่า “Hello World”
+
+function sayHelloWorld() {
+    alert('Hello World');
+}
+sayHelloWorld(); // Hello World การเรียกใช้(invoke) function
+
+
+// // (a) === let a
+// function myFunc (a) {
+//     console.log(a)
+// }
+
